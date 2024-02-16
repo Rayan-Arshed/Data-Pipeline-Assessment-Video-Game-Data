@@ -10,3 +10,5 @@ List of best-selling PlayStation 4 video games: https://www.kaggle.com/datasets/
 Global Video Game Sales: https://www.kaggle.com/datasets/thedevastator/global-video-game-sales
 
 With these four data sets, I will extract them, perform exploratory data analysis, transform the data, visualize it, and attempt some feature engineering, before saving it to a MySQL Database.
+
+Full report is in repo to read.
